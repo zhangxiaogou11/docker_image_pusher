@@ -1,1 +1,1 @@
-python:3.12.9-slim-bookworm
+nvidia/cuda:12.2.0-devel-ubuntu22.04
