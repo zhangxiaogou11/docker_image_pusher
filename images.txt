@@ -1,3 +1,1 @@
-nginx:latest
-redis:7
-postgres:15
+apache/superset-cache:3.10-slim-bookworm
