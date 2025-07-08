@@ -1,1 +1,2 @@
 apache/superset:GHA-16132842740
+apache/superset-cache:3.10-slim-bookworm
