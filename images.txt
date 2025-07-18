@@ -1,1 +1,1 @@
-dataease/dataease
+registry.cn-qingdao.aliyuncs.com/dataease/dataease:v2.10.11
