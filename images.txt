@@ -1,1 +1,1 @@
-wojiushixiaobai/dataease:v2.10.10
+dataease/dataease
