@@ -1,1 +1,5 @@
-registry.cn-qingdao.aliyuncs.com/dataease/dataease:v2.10.11
+langgenius/dify-web:1.4.1
+langgenius/dify-api:1.4.1
+langgenius/dify-api:1.4.1
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.1.1-local
