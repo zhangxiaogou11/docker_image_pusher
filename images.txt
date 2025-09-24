@@ -1,6 +1,1 @@
-langgenius/dify-api:1.8.1
-langgenius/dify-web:1.8.1
-langgenius/dify-sandbox:0.2.12
-nginx:latest
-ubuntu/squid:latest
-langgenius/dify-plugin-daemon:0.2.0-local
+postgres:17.6
