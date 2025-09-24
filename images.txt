@@ -1,1 +1,1 @@
-postgres:17.6
+openeuler/openeuler:22.03-lts-sp4
