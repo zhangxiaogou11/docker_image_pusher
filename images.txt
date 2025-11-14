@@ -1,1 +1,1 @@
-openeuler/openeuler:22.03-lts-sp4
+syslog-ng/syslog-ng:4.10.2
