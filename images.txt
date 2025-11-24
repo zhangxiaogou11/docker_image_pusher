@@ -1,1 +1,1 @@
-jwilder/dockerize:0.6.1
+qwen-mode:2.5-1.5B-speed-2
