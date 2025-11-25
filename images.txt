@@ -1,1 +1,1 @@
-qwen-mode:2.5-1.5B-speed-2
+kafka-map:v1.3.3
