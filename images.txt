@@ -1,1 +1,1 @@
-dushixiang/kafka-map:v1.3.3
+model-runner-cli
