@@ -1,2 +1,1 @@
-doris-fe:2.1.11
-doris-be:2.1.11
+dyrnq/doris:2.1.11
