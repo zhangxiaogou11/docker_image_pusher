@@ -1,3 +1,2 @@
-mongo:7.0.4
-autumn27/scopesentry-scan:latest
-autumn27/scopesentry:latest
+doris-fe:2.1.11
+doris-be:2.1.11
