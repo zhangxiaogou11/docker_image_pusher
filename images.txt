@@ -1,2 +1,4 @@
-apache/doris:fe-2.1.11
-apache/doris:be-2.1.11
+elasticsearch:9.1.4
+kibana:9.1.4
+logstash:9.1.4
+jertel/elastalert2:2.26.0
