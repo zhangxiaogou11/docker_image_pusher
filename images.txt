@@ -1,4 +1,1 @@
-elasticsearch:9.1.4
-kibana:9.1.4
-logstash:9.1.4
-jertel/elastalert2:2.26.0
+apache/spark:3.4.4
