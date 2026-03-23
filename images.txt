@@ -1,1 +1,1 @@
-apache/spark:3.4.4
+openeuler-22.03-lts-sp4
