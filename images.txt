@@ -1,1 +1,2 @@
 akyakya/doris-mcp-server:0.6.0
+doris-mcp-server:0.6.0
