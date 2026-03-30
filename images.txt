@@ -1,5 +1,1 @@
-langgenius/dify-api:1.12.1
-langgenius/dify-web:1.12.1
-langgenius/dify-sandbox:0.2.12
-ubuntu/squid:latest
-langgenius/dify-plugin-daemon:0.5.3-local
+akyakya/doris-mcp-server:0.6.0
