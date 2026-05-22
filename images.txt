@@ -1,1 +1,1 @@
-python:3.12-slim
+mongo:7.0.31
