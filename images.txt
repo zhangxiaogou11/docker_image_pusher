@@ -1,1 +1,1 @@
-redis/redisinsight:latest
+redisinsight:latest
